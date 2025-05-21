@@ -9,8 +9,8 @@
 #include "lwip/netif.h"
 
 // Credenciais Wi-Fi
-#define WIFI_SSID "iPhone de Davi"
-#define WIFI_PASSWORD "bahia123"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "SENHA"
 
 // Pinos
 #define LED_PIN CYW43_WL_GPIO_LED_PIN
