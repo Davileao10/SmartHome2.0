@@ -17,7 +17,7 @@
 #define LED_BLUE_PIN 12
 #define LED_GREEN_PIN 11
 #define LED_RED_PIN 13
-#define BUZZER1_PIN 14
+#define BUZZER1_PIN 10
 #define BUZZER2_PIN 21
 
 // Configurações PWM LED
